@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">scaling-spoon</string>
+    <string name="rain_drops_background_image">Rain drops</string>
+    <string name="title">Humidity</string>
+    <string name="footer">2022-10-30</string>
+</resources>
